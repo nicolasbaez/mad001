@@ -1,5 +1,4 @@
-# mad005
-multiple polar to rectangular modulation loop
+#: : m a d 0 0 1
 
 ![mad005](https://github.com/nicolasbaez/mad005/blob/master/mad005.gif)
 
